@@ -1,0 +1,19 @@
+<idea-plugin>
+    <id>cc.zengtian.JavaEnhanced</id>
+    <name>Java Enhanced</name>
+    <vendor email="zt1106@gmail.com" url="http://www.zengtian.cc">Zeng Tian</vendor>
+
+    <description>TODOTODOTODOTODOTODOTODOTODOTODOTODOTODOTODOTODOTODOTODOTODOTODOTODOTODOTODOTODOTODOTODOTODOTODO</description>
+
+    <depends>com.intellij.modules.platform</depends>
+    <depends>com.intellij.modules.java</depends>
+
+    <idea-version since-build="181"/>
+
+    <extensions defaultExtensionNs="com.intellij">
+    </extensions>
+
+    <actions>
+
+    </actions>
+</idea-plugin>
