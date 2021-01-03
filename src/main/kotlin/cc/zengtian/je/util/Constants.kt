@@ -1,0 +1,6 @@
+package cc.zengtian.je.util
+
+import com.intellij.codeInsight.completion.CompletionUtilCore
+
+const val IDEA_JAVA_COMPLETION_DUMMY_IDENTIFIER = CompletionUtilCore.DUMMY_IDENTIFIER
+const val IDEA_JAVA_COMPLETION_DUMMY_IDENTIFIER_TRIMMED = CompletionUtilCore.DUMMY_IDENTIFIER_TRIMMED

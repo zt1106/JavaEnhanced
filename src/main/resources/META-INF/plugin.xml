@@ -11,6 +11,7 @@
     <idea-version since-build="181"/>
 
     <extensions defaultExtensionNs="com.intellij">
+        <completion.contributor implementationClass="cc.zengtian.je.extension.psi.completion.CreateJavaClassLoggerContributor" language="JAVA"/>
     </extensions>
 
     <actions>
